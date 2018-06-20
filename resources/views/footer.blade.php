@@ -1,7 +1,7 @@
 <footer>
-	<div id="disqus_thread"></div>
+    <div id="disqus_thread"></div>
     <script>
-    (function() {
+        (function() {
     var d = document, s = d.createElement('script');
     s.src = 'https://web1silseub.disqus.com/embed.js';
     s.setAttribute('data-timestamp', +new Date());
