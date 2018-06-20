@@ -15,3 +15,18 @@ Route::get('/', function () {
     return view('welcome');
 });
 
+Route::get('index', function () {
+    return view('index');
+});
+
+Route::get('1', function () {
+    return view('1');
+});
+
+Route::get('2', function () {
+    return view('2');
+});
+
+Route::get('3', function () {
+    return view('3');
+});
